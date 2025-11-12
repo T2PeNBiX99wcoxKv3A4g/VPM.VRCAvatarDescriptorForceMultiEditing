@@ -1,7 +1,7 @@
 {
   "name": "io.github.ykysnk.vrc-avatar-descriptor-force-multi-editing",
   "displayName": "VRC Avatar Descriptor Force Multi Editing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Force VRCAvatarDescriptor can be multi editing",
   "gitDependencies": {},
   "vpmDependencies": {

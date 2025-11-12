@@ -1,3 +1,3 @@
-# VRC Avatar Descriptor Force Mulit Editing
+# VRC Avatar Descriptor Force Multi Editing
 
-Force VRCAvatarDescriptor can be mulit editing
+Force VRCAvatarDescriptor can be multi editing
